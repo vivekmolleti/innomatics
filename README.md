@@ -1,11 +1,5 @@
 Perform Exploratory Data Analysis (EDA) on the data-set given below. Consider Salary as a target variable. You should submit a Jupyter Notebook(i.e. .ipynb file) along with a 5 Page report in Innomatics Report Template. Zip both the files together and upload on LMS.
 
-Download the dataset from this link. CLICK HERE TO DOWNLOAD DATASET
-
-The detailed description about the dataset can be found here. Dataset Description
-
-If you are facing any difficulty in performing EDA, follow the steps mentioned below:
-
 Step - 1 - Introduction -> Give a detailed data description and objective
 Step - 2 - Import the data and display the head, shape and description of the data.
 Step - 3 - Univariate Analysis -> PDF, Histograms, Boxplots, Countplots, etc..
